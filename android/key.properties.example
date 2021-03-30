@@ -1,0 +1,4 @@
+storePassword=1qazaq1
+keyPassword=1qazaq1
+keyAlias=key
+storeFile=$HOME/wevpnkey.jks
